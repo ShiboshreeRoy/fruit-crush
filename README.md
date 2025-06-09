@@ -142,7 +142,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 Created by **Shiboshree Roy** – [shiboshreeroycse@gmail.com](mailto:shiboshreeroycse@gmail.com)
 GitHub: [https://github.com/shiboshreeroy](https://github.com/shiboshreeroy)
-LinkedIn: [https://linkedin.com/in/shiboshree-riy](https://linkedin.com/in/shiboshree-roy)
+LinkedIn: [https://linkedin.com/in/shiboshree-roy](https://linkedin.com/in/shiboshree-roy)
 
 ---
 
